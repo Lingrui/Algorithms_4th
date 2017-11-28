@@ -11,3 +11,22 @@ d.33
 
 1.1.3
 TriEqual.java
+
+1.1.4
+a. if(a>b){c=0;}
+b. if(a>b){c=0;}
+
+1.1.5
+double_0_1.java
+
+1.1.6
+add_num.java
+
+1.1.7
+while_for.java
+
+1.1.8 
+a. b 
+b. bc
+c. 
+
