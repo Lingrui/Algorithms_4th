@@ -1,4 +1,4 @@
-public class test
+public class join_char
 {
     public static void main(String[] args)
     {
