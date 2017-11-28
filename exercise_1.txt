@@ -26,7 +26,13 @@ add_num.java
 while_for.java
 
 1.1.8 
-a. b 
-b. bc
-c. 
+join_char.java
+
+1.1.9
+int2bin.java
+
+1.1.11
+1.1.12
+1.1.13
+1.1.14
 
